@@ -4,4 +4,4 @@ runs:
   using: "docker"
   image: "docker://kelvinoluwadaolaiya/tmp-latex:latest"
   args:
-    - "Wornderfull world"
+    - "Wonderfull world"
