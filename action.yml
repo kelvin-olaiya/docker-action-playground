@@ -1,0 +1,7 @@
+name: Docker action
+description: 'Run docker commands'
+runs:
+  using: "docker"
+  image: "docker://kelvinoluwadaolaiya/tmp-docker"
+  args:
+    - "Wornderfull world"
